@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Nekoten Github
+description: Just another pages
+show_downloads: true
+google_analytics:
